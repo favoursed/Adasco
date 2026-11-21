@@ -4,6 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
+  <!-- Single Page App Redirect Resolver for GitHub Pages -->
+  <script>
+    (function(l) {
+      if (l.search[1] === '/' ) {
+        var decoded = l.search.slice(1).split('&').map(function(s) { 
+          return s.replace(/~and~/g, '&')
+        }).join('?');
+        window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    }(window.location))
+  </script>
+  
   <!-- Primary SEO Meta Tags -->
   <title>Adasco Synergy Limited | Premium Aluminium Roofing Sheets & Building Solutions in Lagos, Nigeria</title>
   <meta name="title" content="Adasco Synergy Limited | Premium Aluminium Roofing Sheets & Building Solutions in Lagos, Nigeria">
@@ -13,7 +27,7 @@
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   <meta name="theme-color" content="#061124">
-  <link rel="canonical" href="https://adascosynergy.com/">
+  <link rel="canonical" href="https://adasco.shop/">
 
   <!-- Sitemaps, Feeds & LLM Discovery (SEO, GEO & AEO) -->
   <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
@@ -26,14 +40,14 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Adasco Synergy Limited">
   <meta property="og:locale" content="en_NG">
-  <meta property="og:url" content="https://adascosynergy.com/">
+  <meta property="og:url" content="https://adasco.shop/">
   <meta property="og:title" content="Adasco Synergy Limited | High-Grade Aluminium Roofing & Building Solutions">
   <meta property="og:description" content="Leading dealers in premium aluminium roofing sheets, long span, steptiles, stone coated tiles, and architectural fittings across Lagos and all 36 States.">
   <meta property="og:image" content="/assets/product-longspan.jpg">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://adascosynergy.com/">
+  <meta property="twitter:url" content="https://adasco.shop/">
   <meta property="twitter:title" content="Adasco Synergy Limited | High-Grade Aluminium Roofing & Building Solutions">
   <meta property="twitter:description" content="Factory-direct aluminium roofing sheets, step-tiles, and stone-coated tiles engineered for lasting durability across Nigeria.">
   <meta property="twitter:image" content="/assets/product-longspan.jpg">
@@ -53,12 +67,12 @@
     "@graph": [
       {
         "@type": ["HomeAndConstructionBusiness", "RoofingContractor", "Organization"],
-        "@id": "https://adascosynergy.com/#organization",
+        "@id": "https://adasco.shop/#organization",
         "name": "Adasco Synergy Limited",
         "alternateName": "Adasco Synergy",
-        "url": "https://adascosynergy.com",
-        "logo": "https://adascosynergy.com/assets/logo-horizontal.svg",
-        "image": "https://adascosynergy.com/assets/hero-bg.jpg",
+        "url": "https://adasco.shop",
+        "logo": "https://adasco.shop/assets/logo-horizontal.svg",
+        "image": "https://adasco.shop/assets/hero-bg.jpg",
         "telephone": "+2349066224148",
         "priceRange": "₦₦",
         "address": {
@@ -104,7 +118,7 @@
       },
       {
         "@type": "FAQPage",
-        "@id": "https://adascosynergy.com/#faq",
+        "@id": "https://adasco.shop/#faq",
         "mainEntity": [
           {
             "@type": "Question",

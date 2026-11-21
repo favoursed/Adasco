@@ -4,12 +4,12 @@
   
   <!-- 1. Home Page -->
   <url>
-    <loc>https://adascosynergy.com/</loc>
+    <loc>https://adasco.shop/</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/hero-bg.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/hero-bg.jpg</image:loc>
       <image:title>Adasco Synergy Limited Aluminium Roofing Sheets Lagos Nigeria</image:title>
       <image:caption>Professional installation of premium corrugated aluminium roofing sheets by certified Adasco technicians in Lagos.</image:caption>
     </image:image>
@@ -17,12 +17,12 @@
 
   <!-- 2. Services Page -->
   <url>
-    <loc>https://adascosynergy.com/services</loc>
+    <loc>https://adasco.shop/services</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/worker-roof.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/worker-roof.jpg</image:loc>
       <image:title>Aluminium Roofing Installation and Structural Woodwork Services</image:title>
       <image:caption>Expert roofing carpentry, continuous roll forming, and leak prevention services across Nigeria.</image:caption>
     </image:image>
@@ -30,32 +30,32 @@
 
   <!-- 3. Products Catalog -->
   <url>
-    <loc>https://adascosynergy.com/products</loc>
+    <loc>https://adasco.shop/products</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/product-longspan.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/product-longspan.jpg</image:loc>
       <image:title>Corrugated Longspan Aluminium Roofing Sheets</image:title>
       <image:caption>0.45mm to 0.70mm high-grade corrugated longspan sheets engineered for maximum span and weather resilience.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/product-tiles.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/product-tiles.jpg</image:loc>
       <image:title>Stone Coated Metal Roofing Tiles</image:title>
       <image:caption>Classic and Shingle stone-coated tiles with volcanic basalt chip coating for thermal comfort and elegance.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/product-coils.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/product-coils.jpg</image:loc>
       <image:title>Color Coated Aluminium Coils</image:title>
       <image:caption>Master coils in oven-baked PVDF and polyester finishes ready for automated roll-forming.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/product-accessories.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/product-accessories.jpg</image:loc>
       <image:title>Aluminium Profiles, Eaves, Valley Gutters and Outlets</image:title>
       <image:caption>Custom extruded architectural trims and water evacuation fittings.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/product-machinery.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/product-machinery.jpg</image:loc>
       <image:title>Heavy-Duty Roll Forming and Profiling Equipment</image:title>
       <image:caption>Industrial machinery for continuous on-site and factory aluminium profiling.</image:caption>
     </image:image>
@@ -63,32 +63,32 @@
 
   <!-- 4. Landmark Projects & Gallery -->
   <url>
-    <loc>https://adascosynergy.com/projects</loc>
+    <loc>https://adasco.shop/projects</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/project-duplex-lekki.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/project-duplex-lekki.jpg</image:loc>
       <image:title>Luxury Duplex Roofing in Lekki Phase 1 Lagos</image:title>
       <image:caption>Royal blue steptiles aluminium roofing installation on luxury 5-bedroom duplex in Lekki, Lagos.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/project-bungalow-suburban.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/project-bungalow-suburban.jpg</image:loc>
       <image:title>Country Bungalow Stone-Coated Shingle Roofing</image:title>
       <image:caption>Volcanic charcoal black stone-coated shingle roofing in suburban Lagos / Ogun border.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/project-warehouse-ikeja.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/project-warehouse-ikeja.jpg</image:loc>
       <image:title>Industrial Logistics Hub Longspan Aluminium Roofing</image:title>
       <image:caption>2,400 sqm heavy industrial corrugated longspan aluminium installation in Ikeja Industrial Estate, Lagos.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/project-plaza-commercial.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/project-plaza-commercial.jpg</image:loc>
       <image:title>Commercial Shopping Plaza Metcopo Aluminium Roofing</image:title>
       <image:caption>Deep wine red Metcopo step-tile aluminium installation in Ikeja and Surulere, Lagos.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://adascosynergy.com/assets/project-estate-magodo.jpg</image:loc>
+      <image:loc>https://adasco.shop/assets/project-estate-magodo.jpg</image:loc>
       <image:title>Twin Luxury Semi-Detached Duplexes in Magodo GRA Lagos</image:title>
       <image:caption>Natural stone black classic interlocking stone-coated tiles in Magodo GRA Phase 2, Lagos.</image:caption>
     </image:image>
@@ -96,7 +96,7 @@
 
   <!-- 5. About Us Page -->
   <url>
-    <loc>https://adascosynergy.com/about</loc>
+    <loc>https://adasco.shop/about</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
@@ -104,7 +104,7 @@
 
   <!-- 6. Contact & Quote Page -->
   <url>
-    <loc>https://adascosynergy.com/contact</loc>
+    <loc>https://adasco.shop/contact</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>

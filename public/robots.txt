@@ -1,4 +1,4 @@
-# robots.txt for Adasco Synergy Limited (https://adascosynergy.com)
+# robots.txt for Adasco Synergy Limited (https://adasco.shop)
 # Configured for optimal SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization)
 
 User-agent: *
@@ -51,6 +51,6 @@ User-agent: YandexBot
 Allow: /
 
 # Sitemaps & Machine Context
-Sitemap: https://adascosynergy.com/sitemap.xml
+Sitemap: https://adasco.shop/sitemap.xml
 # LLM Context File for AI search assistants:
-# https://adascosynergy.com/llms.txt
+# https://adasco.shop/llms.txt
