@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 240" width="100%" height="100%">
+  <defs>
+    <!-- Premium Metallic Gold Gradient -->
+    <linearGradient id="adascoGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCE49E" />
+      <stop offset="25%" stop-color="#E5B85C" />
+      <stop offset="50%" stop-color="#C59B27" />
+      <stop offset="75%" stop-color="#F3C644" />
+      <stop offset="100%" stop-color="#9B7119" />
+    </linearGradient>
+    <linearGradient id="goldStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ECC070" />
+      <stop offset="50%" stop-color="#FFDF88" />
+      <stop offset="100%" stop-color="#C59B27" />
+    </linearGradient>
+    <filter id="goldGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.4" />
+    </filter>
+  </defs>
+
+  <g id="logo-emblem" transform="translate(190, 10)">
+    <!-- Chimney on Right Slope -->
+    <path d="M 68 38 L 68 18 L 84 18 L 84 56 Z" fill="url(#adascoGold)" />
+    
+    <!-- Outer Roof Structure -->
+    <path d="M 60 4 
+             L 124 64 
+             L 112 74 
+             L 60 25 
+             L 8 74 
+             L -4 64 Z" 
+          fill="url(#adascoGold)" />
+
+    <!-- Inner House Silhouette with Walls and Base -->
+    <!-- Base and side pillars -->
+    <path d="M 12 72 L 28 72 L 28 92 L 92 92 L 92 72 L 108 72 L 108 106 L 12 106 Z" fill="url(#adascoGold)" />
+    <!-- Left wall -->
+    <rect x="12" y="72" width="16" height="34" fill="url(#adascoGold)" />
+    <!-- Right wall -->
+    <rect x="92" y="72" width="16" height="34" fill="url(#adascoGold)" />
+
+    <!-- Centered 4-Pane Window -->
+    <!-- Window Outer & Cross Divider -->
+    <g transform="translate(43, 62)">
+      <!-- Top Left Pane -->
+      <rect x="0" y="0" width="14" height="13" rx="1.5" fill="url(#adascoGold)" />
+      <!-- Top Right Pane -->
+      <rect x="19" y="0" width="14" height="13" rx="1.5" fill="url(#adascoGold)" />
+      <!-- Bottom Left Pane -->
+      <rect x="0" y="17" width="14" height="13" rx="1.5" fill="url(#adascoGold)" />
+      <!-- Bottom Right Pane -->
+      <rect x="19" y="17" width="14" height="13" rx="1.5" fill="url(#adascoGold)" />
+    </g>
+  </g>
+
+  <!-- Typography -->
+  <!-- ADASCO -->
+  <text x="250" y="165" 
+        text-anchor="middle" 
+        fill="url(#adascoGold)" 
+        font-family="'Montserrat', 'Arial Black', sans-serif" 
+        font-weight="900" 
+        font-size="44" 
+        letter-spacing="5">ADASCO</text>
+
+  <!-- SYNERGY LIMITED -->
+  <text x="250" y="196" 
+        text-anchor="middle" 
+        fill="url(#adascoGold)" 
+        font-family="'Montserrat', sans-serif" 
+        font-weight="700" 
+        font-size="14.5" 
+        letter-spacing="9">SYNERGY LIMITED</text>
+
+  <!-- Decorative Sub-Line -->
+  <path d="M 80 216 L 230 216 M 270 216 L 420 216" stroke="url(#goldStroke)" stroke-width="1.5" stroke-opacity="0.6" />
+  <polygon points="250,211 255,216 250,221 245,216" fill="url(#adascoGold)" />
+</svg>

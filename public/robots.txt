@@ -1,0 +1,56 @@
+# robots.txt for Adasco Synergy Limited (https://adascosynergy.com)
+# Configured for optimal SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization)
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /tmp/
+
+# Generative AI & Answer Engine Crawlers (AEO / GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Standard Search Engine Crawlers (SEO)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Sitemaps & Machine Context
+Sitemap: https://adascosynergy.com/sitemap.xml
+# LLM Context File for AI search assistants:
+# https://adascosynergy.com/llms.txt
